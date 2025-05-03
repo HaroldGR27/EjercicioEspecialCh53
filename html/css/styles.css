@@ -1,0 +1,21 @@
+body {
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    margin-top: 250px;
+  }
+
+h1{
+    color: white; 
+}
+
+a{
+    display: inline-block;
+    padding: 12px 24px;
+    background: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
